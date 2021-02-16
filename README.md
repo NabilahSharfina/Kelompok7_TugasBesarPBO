@@ -2,9 +2,9 @@
     Kelas         : S1 SE-03-A
     Kelompok      : 7
     Nama Anggota  :
-      1. Fauziyah Ulur Rosyad P. (19104033)
-      2. Nabilah Sharfina        (19104025)
-      3. Iqbal Pratama Putra     (19104070)
+      1. Fauziyah Ulur Rosyad P. (19104033) ->  membuat class diagram, edit video dokumentasi, dan membuat laporan dokumentasi
+      2. Nabilah Sharfina        (19104025) ->  membuat program JavaScript dan membuat laporan dokumentasi
+      3. Iqbal Pratama Putra     (19104070) 
 
 # PROGRAM VIRTUAL FITTING ROOM
     A.  Penjelasan Umum
