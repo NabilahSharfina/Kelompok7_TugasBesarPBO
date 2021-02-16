@@ -10,7 +10,11 @@
     A.  Penjelasan Umum
         Pada program yang telah dibuat, kami mengimplementasikan konsep OOP Javascript dengan komponen, sebagai berikut:
         1.  Object
+![Object](https://user-images.githubusercontent.com/58089002/108024631-84f44a00-7057-11eb-82c6-90f306e2cd1c.png)
+
         2.  Class
+![Class](https://user-images.githubusercontent.com/58089002/108024601-786ff180-7057-11eb-96dc-7c26ee91e785.png)
+
         3.  Inherintance
 ![Inheritance](https://user-images.githubusercontent.com/58089002/107984514-a7a44580-6ffa-11eb-85f5-a5929441b6c8.png)
         
